@@ -35,7 +35,7 @@ This code was written for Python 2.7
 
 #### To reproduce time series in Figure 2 with make_roi_tseries.py, you will need:
 
-- Functional imaging data and atlas ROIs from Mendeley Data (roi_timeseries_data.zip)
+- Functional imaging data and atlas ROIs from Mendeley Data (roi_timeseries_data.zip at http://dx.doi.org/10.17632/8b6nw2xxhn.1)
 
 - AFNI
 
